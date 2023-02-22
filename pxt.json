@@ -1,5 +1,5 @@
 {
-    "name": "投币机",
+    "name": "coin",
     "description": "",
     "dependencies": {
         "core": "*",
